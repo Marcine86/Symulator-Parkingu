@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\GitHub\Symulator-Parkingu\bin\Debug\net8.0\Symulator-Parkingu.exe
+C:\Users\Dell\Documents\GitHub\Symulator-Parkingu\bin\Debug\net8.0\Symulator-Parkingu.deps.json
+C:\Users\Dell\Documents\GitHub\Symulator-Parkingu\bin\Debug\net8.0\Symulator-Parkingu.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\Symulator-Parkingu\bin\Debug\net8.0\Symulator-Parkingu.dll
+C:\Users\Dell\Documents\GitHub\Symulator-Parkingu\bin\Debug\net8.0\Symulator-Parkingu.pdb
+C:\Users\Dell\Documents\GitHub\Symulator-Parkingu\obj\Debug\net8.0\Symulator-Parkingu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\Symulator-Parkingu\obj\Debug\net8.0\Symulator-Parkingu.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\Symulator-Parkingu\obj\Debug\net8.0\Symulator-Parkingu.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\Symulator-Parkingu\obj\Debug\net8.0\Symulator-Parkingu.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\Symulator-Parkingu\obj\Debug\net8.0\Symulator-Parkingu.sourcelink.json
+C:\Users\Dell\Documents\GitHub\Symulator-Parkingu\obj\Debug\net8.0\Symulator-Parkingu.dll
+C:\Users\Dell\Documents\GitHub\Symulator-Parkingu\obj\Debug\net8.0\refint\Symulator-Parkingu.dll
+C:\Users\Dell\Documents\GitHub\Symulator-Parkingu\obj\Debug\net8.0\Symulator-Parkingu.pdb
+C:\Users\Dell\Documents\GitHub\Symulator-Parkingu\obj\Debug\net8.0\Symulator-Parkingu.genruntimeconfig.cache
+C:\Users\Dell\Documents\GitHub\Symulator-Parkingu\obj\Debug\net8.0\ref\Symulator-Parkingu.dll
